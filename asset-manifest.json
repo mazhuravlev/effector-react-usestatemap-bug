@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/effector-react-usestatemap-bug/static/css/main.f0bde2ec.chunk.css",
+    "main.js": "/effector-react-usestatemap-bug/static/js/main.8a51e702.chunk.js",
+    "main.js.map": "/effector-react-usestatemap-bug/static/js/main.8a51e702.chunk.js.map",
+    "runtime-main.js": "/effector-react-usestatemap-bug/static/js/runtime-main.085f2184.js",
+    "runtime-main.js.map": "/effector-react-usestatemap-bug/static/js/runtime-main.085f2184.js.map",
+    "static/js/2.d84e1f25.chunk.js": "/effector-react-usestatemap-bug/static/js/2.d84e1f25.chunk.js",
+    "static/js/2.d84e1f25.chunk.js.map": "/effector-react-usestatemap-bug/static/js/2.d84e1f25.chunk.js.map",
+    "static/js/3.7c80a65f.chunk.js": "/effector-react-usestatemap-bug/static/js/3.7c80a65f.chunk.js",
+    "static/js/3.7c80a65f.chunk.js.map": "/effector-react-usestatemap-bug/static/js/3.7c80a65f.chunk.js.map",
+    "index.html": "/effector-react-usestatemap-bug/index.html",
+    "static/css/main.f0bde2ec.chunk.css.map": "/effector-react-usestatemap-bug/static/css/main.f0bde2ec.chunk.css.map",
+    "static/js/2.d84e1f25.chunk.js.LICENSE.txt": "/effector-react-usestatemap-bug/static/js/2.d84e1f25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.085f2184.js",
+    "static/js/2.d84e1f25.chunk.js",
+    "static/css/main.f0bde2ec.chunk.css",
+    "static/js/main.8a51e702.chunk.js"
+  ]
+}
